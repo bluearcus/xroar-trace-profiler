@@ -103,7 +103,9 @@ The Makefile uses `x86_64-w64-mingw32-gcc` for Windows builds, which produces 64
 
 ## Viewer Features
 
-  ## Screenshots ![XRoar Trace Profiler Viewer](C:\Users\44798\Sync\Projects\C\xrtprof\repo\screenshots\viewer.png)
+### Screenshots
+
+![XRoar Trace Profiler Viewer](screenshots/viewer.png)
 
 ### Navigation
 
@@ -235,6 +237,7 @@ See https://creativecommons.org/licenses/by-nc-sa/4.0/ for full license text.
 Mike Miller (bluearcus)
 
 mike.miller@gmx.co.uk
+
 
 
 
