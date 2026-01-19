@@ -11,7 +11,7 @@
  * See https://creativecommons.org/licenses/by-nc-sa/4.0/
  */
  
- /* V0.1 19 Jan 2026 - Initial release /*
+ /* V0.1 19 Jan 2026 - Initial release */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -141,4 +141,5 @@ int main(int argc, char *argv[]) {
     if (infile != stdin) fclose(infile);
     if (outfile != stdout) fclose(outfile);
     return 0;
+
 }
